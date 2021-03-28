@@ -2,8 +2,8 @@
 layout: cv
 title: Derek Muller's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Derek Muller
+Student at Brigham Young University - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
