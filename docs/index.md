@@ -33,7 +33,7 @@ __Service Missionary__, The Church of Jesus Christ of Latter-day Saints
 __Software Developer__ - RSP Supply
 - Mostly creating and editing programs that scrape information from specific websites 
 - As there was no "senior developer", much of what I learned was self taught 
-- Experience with Pandas, Selenium, BeautifulSoup, extraction of images and mp3 from video, audio to text, and threading.
+- Experience with Pandas, Selenium, BeautifulSoup, extraction of images and mp3 from video, audio to text, threading, and regular expressions.
 
 
 <!-- ### Footer
